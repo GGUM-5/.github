@@ -3,6 +3,22 @@
   <img width="800" alt="캣스팟" src="https://github.com/user-attachments/assets/d2654af1-db4c-4cc7-92b5-c9edb0d04952">
 </p>
 
+## 👥 Team members
+
+<div align=center> 
+
+  | 이동준 | 김지혜 | 나혜빈 | 오준석 | 이소민 | 이승원|   
+  | :---: | :---: | :---: | :---: | :---: | :---: |  
+  | <img src="https://avatars.githubusercontent.com/dongjune8931" alt="profile" width="180" height="180"> |  |  | |  | |
+  | [dongjune8931](https://github.com/dongjune8931) | ㅇ |  ㅇ | [ojspp41](https://github.com/ojspp41)| [somin2352](https://github.com/somin2352)| [Solf](https://github.com/SolfE) |
+  
+  | 윤서영 | 오민석 | 장재원 | 조경호 | 정이령 | 
+  | :---: | :---: | :---: | :---: | :---: | 
+  | |  | |  | 
+  | [seoyoung7623](https://github.com/seoyoung7623) | [oms01](https://github.com/oms01) | [unluckyboy214](https://github.com/unluckyboy214) |[redblackblossom](https://github.com/redblackblossom) | [JungYiryung](https://github.com/JungYiryung) |
+
+</div>
+
 ## 서비스 소개
 CAT-SPOT은 **학생들이 원하는 장소를 편하게 찾을 수 있는 서비스** 입니다. 현재는 *빈 강의실 찾기*, *도서관 열람실 자리 찾기 기능*이 있습니다. 추후 다양한 기능들을 추가할 예정입니다!
 ## 상세 페이지
