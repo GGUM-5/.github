@@ -7,15 +7,15 @@
 
 <div align=center> 
 
-  | 이동준 | 김지혜 | 나혜빈 | 오준석 | 이소민 | 이승원|   
+  | [PM,Designer] | [PM] | [Designer] | [FE] | [FE] | [BE]|   
   | :---: | :---: | :---: | :---: | :---: | :---: |  
-  | <img src="https://avatars.githubusercontent.com/dongjune8931" alt="profile" width="180" height="180"> |  |  | |  | |
-  | [dongjune8931](https://github.com/dongjune8931) | ㅇ |  ㅇ | [ojspp41](https://github.com/ojspp41)| [somin2352](https://github.com/somin2352)| [Solf](https://github.com/SolfE) |
+  | <img src="https://avatars.githubusercontent.com/dongjune8931" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/ojspp41" alt="profile" width="180" height="180">| <img src="https://avatars.githubusercontent.com/somin2352" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/SolfE" alt="profile" width="180" height="180">|
+  | [이동준](https://github.com/dongjune8931) | 김지혜 | 나혜빈 | [오준석](https://github.com/ojspp41)| [이소민](https://github.com/somin2352)| [이승원](https://github.com/SolfE) |
   
-  | 윤서영 | 오민석 | 장재원 | 조경호 | 정이령 | 
+  | [BE] |[BE] |[BE] |[BE] |[BE] | 
   | :---: | :---: | :---: | :---: | :---: | 
-  | |  | |  | 
-  | [seoyoung7623](https://github.com/seoyoung7623) | [oms01](https://github.com/oms01) | [unluckyboy214](https://github.com/unluckyboy214) |[redblackblossom](https://github.com/redblackblossom) | [JungYiryung](https://github.com/JungYiryung) |
+  | <img src="https://avatars.githubusercontent.com/seoyoung7623" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/oms01" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/unluckyboy214" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/redblackblossom" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/JungYiryung" alt="profile" width="180" height="180"> 
+  | [윤서영](https://github.com/seoyoung7623) | [오민석](https://github.com/oms01) | [장재원](https://github.com/unluckyboy214) |[조경호](https://github.com/redblackblossom) | [정이령](https://github.com/JungYiryung) |
 
 </div>
 
