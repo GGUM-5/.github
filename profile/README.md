@@ -1,5 +1,5 @@
 # CAT-SPOT 
-
+<img width="455" alt="스크린샷 2024-10-28 오전 12 43 45" src="https://github.com/user-attachments/assets/d2654af1-db4c-4cc7-92b5-c9edb0d04952">
 <!--
 
 **Here are some ideas to get you started:**
