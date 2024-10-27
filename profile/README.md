@@ -46,3 +46,9 @@ CAT-SPOT은 **학생들이 원하는 장소를 편하게 찾을 수 있는 서�
 |<img width="268" alt="image" src="https://github.com/user-attachments/assets/cdfb4980-5418-4a2d-91ce-5777a0f204ba">| <img width="268" alt="image" src="https://github.com/user-attachments/assets/b262c17c-5a8f-47de-8b63-aa8f35cec39e">
  |
 | 설명 | 설명 |
+
+### 강의실 시간표
+| 원하는 건물과 층 설정                                                       | 
+| ------------------------------------------------------------ | 
+| <img width="268" alt="image" src="https://github.com/user-attachments/assets/0e837129-5a76-41f5-81f9-63eac1ec50b5">
+|
