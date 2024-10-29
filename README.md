@@ -9,8 +9,8 @@
 
   | [PM,Designer] | [PM] | [Designer] | [FE] | [FE] | [BE]|   
   | :---: | :---: | :---: | :---: | :---: | :---: |  
-  | <img src="https://avatars.githubusercontent.com/dongjune8931" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/ojspp41" alt="profile" width="180" height="180">| <img src="https://avatars.githubusercontent.com/somin2352" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/SolfE" alt="profile" width="180" height="180">|
-  | [이동준](https://github.com/dongjune8931) | 김지혜 | 나혜빈 | [오준석](https://github.com/ojspp41)| [이소민](https://github.com/somin2352)| [이승원](https://github.com/SolfE) |
+  | <img src="https://avatars.githubusercontent.com/dongjune8931" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/zeehyee" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/nahyebin" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/ojspp41" alt="profile" width="180" height="180">| <img src="https://avatars.githubusercontent.com/somin2352" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/SolfE" alt="profile" width="180" height="180">|
+  | [이동준](https://github.com/dongjune8931) | [김지혜](https://github.com/zeehyee) | [나혜빈](https://github.com/nahyebin) | [오준석](https://github.com/ojspp41)| [이소민](https://github.com/somin2352)| [이승원](https://github.com/SolfE) |
   
   | [BE] |[BE] |[BE] |[BE] |[BE] | 
   | :---: | :---: | :---: | :---: | :---: | 
