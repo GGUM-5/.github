@@ -5,7 +5,8 @@
 
 ## 배포 주소
 > **가톨릭대학교 제 1회 GGUM Hackathon** <br>
-개발기간 2024.10.19 ~
+개발기간 2024.10.19 ~<br>
+> https://catspot.vercel.app/
 
 
 ## 목차
